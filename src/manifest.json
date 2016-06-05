@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Cura la insensibilidad",
+    "version": "0.3",
+    "author": "Wakaru Himura (wakaru44)",
+    "description": "A funny Chrome extension to view under a new light the refugee crisis in Europe",
+    "homepage_url": "https://github.com/wakaru44/chrome-ext-cura-a-la-insensibilidad",
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png",
+        "256": "icons/icon256.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["libs/findAndReplaceDOMText.js", "content.js"]
+        }
+    ]
+}

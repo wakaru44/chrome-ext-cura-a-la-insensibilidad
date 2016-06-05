@@ -20,6 +20,9 @@ TODO: Add the url of the extension in the chrome webstore. One day...
 So you will have to install it manually:
 
 - [download](https://github.com/wakaru44/chrome-ext-cura-a-la-insensibilidad/raw/master/packages/chrome-ext-cura-a-la-insensibilidad.zip) the zipfile with the extension from the [packages](https://github.com/wakaru44/chrome-ext-cura-a-la-insensibilidad/raw/master/packages/chrome-ext-cura-a-la-insensibilidad.zip)
+- Uncompress the zip in whatever folder you want. Remember it.
 - go to "Extensions" in your chrome
 - Enable "Developer mode" or "Modo desarrollador" (top right corner of the page)
 - Click the button "Add unpacked extension" or "Añadir extesion desempaquetada" and go to that folder.
+
+and you are good to go. 

@@ -7,6 +7,14 @@ replacements = [
     {'find': 'REFUGIADOS',       'replace': 'PERRITOS'},
     {'find': 'refugiados',       'replace': 'perritos'},
 
+    {'find': 'desplazad',       'replace': 'cachorrit'},
+    {'find': 'Desplazad',       'replace': 'Cachorrit'},
+    {'find': 'DESPLAZAD',       'replace': 'CACHORRIT'},
+
+    {'find': 'naufrag',       'replace': 'gatit'},
+    {'find': 'Naufrag',       'replace': 'Gatit'},
+    {'find': 'NAUFRAG',       'replace': 'GATIT'},
+
     {'find': 'Europa',           'replace': 'tu casa'}
 ];
 

@@ -5,19 +5,17 @@ Con los refugiados.
 A funny Chrome extension to swap refugees references for puppies and kittens
 
 
-TODO: Add the url of the extension in the chrome webstore
-
-
 based on the extensions done by [bameda](https://github.com/bameda)
 
 See some results from El Pais:
 
-![una noticia]()
-![lista de noticias]()
+![una noticia](https://github.com/wakaru44/chrome-ext-cura-a-la-insensibilidad/raw/master/screenshot01.png)
+![lista de noticias](https://github.com/wakaru44/chrome-ext-cura-a-la-insensibilidad/raw/master/screenshot02.png)
 
 # Setup
 
 I'm not paying the chrome developer fee just for a silly joke. At least not today.
+TODO: Add the url of the extension in the chrome webstore. One day...
 
 So you will have to install it manually:
 
